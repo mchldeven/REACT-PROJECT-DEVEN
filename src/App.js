@@ -2,7 +2,9 @@ import React from 'react';
 import Header from './Commponents/Header';
 import Feature from './Commponents/Feature';
 import About from './Commponents/About';
+import Presentasi from './Commponents/Presentasi';
 import aboutimage from './images/mantap2.png';
+import aboutimage1 from './images/cekhistory.png';
 
 function App() {
   return (
@@ -10,7 +12,8 @@ function App() {
       <Header />
       <Feature />
       <About image={aboutimage} title="Mudah Digunakan" button="Selengkapnya" />
-      <About image={aboutimage} title="Efesien!" button="get the app" />
+      <Presentasi />
+      <About image={aboutimage1} title="Efesien!" button="Selengkapnya" />
     </div>
   );
 }

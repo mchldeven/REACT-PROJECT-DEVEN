@@ -8,9 +8,7 @@ function About(props) {
       </div>
       <div className="about-text">
         <h2> {props.title} </h2>
-        <p>
-         Kini, karyawan dapat absen dengan menggunakan gadget masing masing kapanpun,dimanapun dan akurat!
-        </p>
+        <p>Kini, karyawan dapat absen dengan menggunakan gadget masing masing kapanpun,dimanapun dan akurat!</p>
         <button>{props.button}</button>
       </div>
     </div>
