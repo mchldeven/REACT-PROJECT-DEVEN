@@ -343,7 +343,7 @@ nav .menu-btn,
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
 }
 
-#contact {
+#kontak {
   background-color: #00b7ff;
   display: flex;
   flex-direction: column;
@@ -351,12 +351,12 @@ nav .menu-btn,
   align-items: center;
   padding: 30px 0px;
 }
-#contact h3 {
+#kontak h3 {
   font-size: 2.5rem;
   margin: 20px;
   color: #fff;
 }
-.contact-input {
+.kontak-input {
   width: 400px;
   height: 50px;
   background-color: #ffffff;
@@ -365,7 +365,7 @@ nav .menu-btn,
   border-radius: 50px;
   box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
 }
-.contact-input input {
+.kontak-input input {
   width: 100%;
   background-color: transparent;
   border: none;
@@ -373,7 +373,7 @@ nav .menu-btn,
   text-align: center;
   color: #242425;
 }
-.contact-input a {
+.kontak-input a {
   width: 200px;
   height: 35px;
   background-color: #00b7ff;
@@ -387,7 +387,7 @@ nav .menu-btn,
   font-weight: 500;
   transition: 0.4s ease-out;
 }
-.contact-input a:hover {
+.kontak-input a:hover {
   background-color: #0099ff;
 }
 @media (max-width: 1190px) {
