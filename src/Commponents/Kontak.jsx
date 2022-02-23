@@ -6,7 +6,7 @@ function Kontak() {
       <h3>Kontak Kami</h3>
       <div className="kontak-input">
         <input type="email" placeholder="universalbpr@.co.id" />
-        <a href="#">Kontak</a>
+        <a href="www.universalbpr.co.id">Kontak</a>
       </div>
     </div>
   );
